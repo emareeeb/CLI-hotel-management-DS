@@ -233,7 +233,7 @@ Customer* updateRoomService(Customer* head, Customer* new){
 
 void Billing(Customer* new){
 	system("cls");
-    printf("                          \t\t\tHOTEL MAKSOOD\n");
+    printf("                          \t\t\tTAJ MAHAL PALACE\n");
     printf("---------------------------------------------------------------------------------------------------------------------------------\n");
     printf("Name: %s\n", new->name);
     printf("Mobile: %lld\n", new->mobile_number);
